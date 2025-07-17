@@ -1,17 +1,17 @@
-# 👋 Hello, World! I'm Mahendra Ketut
+# 👋 Hello, World! I'm Mahendra
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahendraketut&theme=react&hide_border=true" alt="GitHub Streak" width="350"/>
 
 ### 🚀 Passionate about:
-- 📊 **Data Analytics**
+- 🖼️ **Frontend Web Development**
 - 🧪 **Software Quality Assurance**
 - 🌐 **Modern Web Development**
 
 ---
 
 ### 👨‍💻 About Me:
-- 🎯 Currently working as a **Quality Assurance Engineer** at a Software Developer Company in **Bali, Indonesia** 🇮🇩  
-- 🤝 Open to **collaboration** or exploring exciting opportunities in **Modern Software Development**  
+- 🎯 Currently working as a **Quality Assurance Engineer** at a Software Developer Company in **Melbourne, Australia (Remote)** 
+- 🤝 Open to **collaboration** or exploring exciting opportunities in **Modern Software Development** and **Manual and Automation Software QA Engineering**  
 - 🌱 Always learning and sharpening my skills in **testing**, **automation**, and **clean code**
 
 ---
