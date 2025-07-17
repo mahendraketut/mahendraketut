@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Mahendra
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahendraketut&theme=react&hide_border=true" alt="GitHub Streak" width="350"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mahendraketut)](https://git.io/streak-stats)
 
 ### 🚀 Passionate about:
 - 🖼️ **Frontend Web Development**
