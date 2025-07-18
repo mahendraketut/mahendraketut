@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Mahendra
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mahendraketut)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mahendraketut&theme=tokyonight)](https://git.io/streak-stats)
 
 ### 🚀 Passionate about:
 - 🖼️ **Frontend Web Development**
